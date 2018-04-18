@@ -10,4 +10,5 @@ $ jar cvf Print.jar * <br>
 Then run the program :<br>
 $ java Print<br>
 
+![matrix](https://user-images.githubusercontent.com/17005432/38935394-260f767a-4316-11e8-946f-e93974df39b6.png
 
